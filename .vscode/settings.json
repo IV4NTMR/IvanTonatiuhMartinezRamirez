@@ -3,5 +3,6 @@
         "iostream": "cpp",
         "xstring": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "editor.fontWeight": 350
 }
