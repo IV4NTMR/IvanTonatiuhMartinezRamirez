@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T00:04:24.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" version="14.4.2" etag="WJ0bbHyWexEFPnGQdO6Z" type="github"><diagram id="tqolmqiKWyaH9s3rSNa4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-19T00:48:39.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" etag="U9FfFzJyzE1uZz-A3urf" version="14.4.2" type="github">
+  <diagram id="tqolmqiKWyaH9s3rSNa4" name="Page-1">
+    <mxGraphModel dx="1654" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=4;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-2" target="cvu4gQ9L3PPuHIfuNEkG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-2" value="ORGANIZACIONES" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="30" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-3" target="cvu4gQ9L3PPuHIfuNEkG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-3" target="cvu4gQ9L3PPuHIfuNEkG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-3" value="&lt;font style=&quot;font-size: 11px&quot;&gt;El término Organización sirve para acoger una enorme variedad de tamaños, estructuras, interacciones, objetivos, etc. Dentro de esta variedad y complejidad, existen elementos comunes a todas las organizaciones.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-578" y="210" width="248" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-7" target="cvu4gQ9L3PPuHIfuNEkG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-7" value="ELEMENTOS" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="140" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-13" target="cvu4gQ9L3PPuHIfuNEkG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-13" value="Elementos Básicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-715" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-15" target="cvu4gQ9L3PPuHIfuNEkG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-15" value="Elementos de Trabajo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-17" target="cvu4gQ9L3PPuHIfuNEkG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-17" target="cvu4gQ9L3PPuHIfuNEkG-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-17" target="cvu4gQ9L3PPuHIfuNEkG-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-17" target="cvu4gQ9L3PPuHIfuNEkG-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-17" value="&lt;font style=&quot;font-size: 11px&quot;&gt;El elemento básico son las personas, cuyas interacciones componen la organización. . La condición necesaria para la existencia de una organización es la interacción de las personas. El propio éxito o fracaso de las organizaciones es determinado por la calidad de las interacciones que se desarrollan por parte de sus miembros, pueden ser descritas en cuatro niveles diferentes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;arcSize=20;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="450" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-19" target="cvu4gQ9L3PPuHIfuNEkG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-19" target="cvu4gQ9L3PPuHIfuNEkG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=11;" edge="1" parent="1" source="cvu4gQ9L3PPuHIfuNEkG-19" target="cvu4gQ9L3PPuHIfuNEkG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-19" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Los elementos de trabajo de una organización son los recursos que utiliza, y que pueden determinar su futura eficiencia, a saber: recursos humanos, recursos no humanos y recursos conceptuales.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;arcSize=20;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="450" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-21" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Recursos Humanos.&lt;/b&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;Son aquellos en el que las personas aparecen como elementos de trabajo, que utilizan recursos y disponen a la organización para adquirir otros recursos necesarios" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="630" width="125" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-22" value="&lt;b&gt;Recursos No Humanos.&lt;/b&gt;&lt;br&gt;Los recursos no humanos son los recursos materiales, recursos financieros y recursos mercadotécnicos&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="630" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-23" value="&lt;b&gt;Recursos Conceptuales.&lt;/b&gt;&lt;br&gt;Los recursos conceptuales son los localizados en un pequeño grupo de sus miembros, los gerentes." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="630" width="125" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-27" value="Interacciones Individuales" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="630" width="120" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-28" value="Interacciones entre individuos y organización" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-29" value="Interacciones entre la organización y otras organizaciones" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-30" value="Interacciones entre la organización y su ambiente total" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cvu4gQ9L3PPuHIfuNEkG-38" value="Tipos" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="126" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
