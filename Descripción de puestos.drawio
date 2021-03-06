@@ -1,95 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T02:08:05.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" etag="8ytk1oM5bwc4xHkUPjzD" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T03:30:29.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.408" etag="fLmkhbqEKsA9e2SIMlsU" version="14.4.4" type="github">
   <diagram id="jdGVW92j06bWECQes1IP" name="Page-1">
-    <mxGraphModel dx="1010" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="589" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="69w5HiLNVomG7-tPnk7v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-1" target="69w5HiLNVomG7-tPnk7v-3">
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-1" target="sdAo7GfiKsfdWgrMx4g5-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-1" value="Descripción de Puestos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="70" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-3" value="Conceptos Básicos de la Descripción de Puestos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-4" value="Tarea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="310" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-5" value="Atribución" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="390" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-6" value="Son las actividades individualizadas, simples y repetitivas, ejecutadas por el ocupante del cargo" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="150" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-7" value="Son las actividades individualizadas más diferenciadas, ejecutadas por el ocupante del cargo, son llevadas a cabo con menor frecuencia y cumplen propósitos especiales" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="150" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-10" value="Cargo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="670" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-11" value="Función" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="590" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-12" value="Es el conjunto de tareas, ejercido de manera sistemática y reiterada, sin que el ocupante ocupen un cargo determinado" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="150" y="640" width="150" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-13" value="Es la posición jerárquica de un conjunto de tareas dentro de una organización formal" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="380" y="720" width="150" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-14" target="69w5HiLNVomG7-tPnk7v-4">
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-1" target="69w5HiLNVomG7-tPnk7v-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-14" value="Qué hace, cómo lo hace, Para qué lo hace." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-1" target="69w5HiLNVomG7-tPnk7v-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-15" value="&lt;b&gt;Requisitos&lt;/b&gt;" style="verticalLabelPosition=center;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4.06;align=center;horizontal=1;textDirection=ltr;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="200" width="150" height="40" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-1" value="Descripción de Puestos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="767" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-23" value="Mentales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="290" width="120" height="30" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-4" value="Tarea" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-24" value="Se refiere a las clasificaciones que el cargo exige el ocupante inherentes a las aptitudes.&lt;br&gt;&lt;br&gt;Por ejemplo puede ser la inteligencia, memoria, raciocinio, mental, numérico y verbal, habilidad para trabajar con personas, imaginación, liderazgo, iniciativa, adaptabilidad al cargo etc." style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="340" width="220" height="200" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-5" value="Atribución" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="354" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-25" value="Físicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="290" width="120" height="30" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-6" value="Son las actividades individualizadas, simples y repetitivas, ejecutadas por el ocupante del cargo, como los cargos de personal pago por horas u operarios" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="20" y="360" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-26" value="Es la posición jerárquica de un conjunto de tareas dentro de una organización formal" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1392.5" y="340" width="215" height="120" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-7" value="Son las actividades individualizadas más diferenciadas, ejecutadas por el ocupante del cargo, son llevadas a cabo con menor frecuencia, como los cargos de funcionarios por contrato/mes" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="240" y="404" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-27" value="Académicos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="290" width="120" height="30" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-10" value="Cargo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="604" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-28" value="Se refiere a los requisitos adquiridos por el ocupante al cargo.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Preparación académica&lt;/li&gt;&lt;li&gt;Conocimientos generales.&lt;/li&gt;&lt;li&gt;Experiencia personal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="1685" y="340" width="150" height="190" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-11" value="Función" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="560" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-31" value="&lt;b&gt;Métodos de descripción y análisis de puesto&lt;/b&gt;" style="verticalLabelPosition=center;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4.06;align=center;horizontal=1;textDirection=ltr;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="740" y="415" width="180" height="50" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-12" value="Es el conjunto de tareas o atribuciones, ejercido de manera sistemática y reiterada por un ocupante del cargo o por alguien que desempeñe provisoria o definitivamente una función" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="20" y="610" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-33" value="Cuestionarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-13" value="Es la posición jerárquica de un conjunto de tareas dentro de una organización formal, generalmente definida en el organigrama." style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="240" y="654" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-34" value="Son las actividades individualizadas más diferenciadas, ejecutadas por el ocupante del cargo, son llevadas a cabo con menor frecuencia y cumplen propósitos especiales" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="550" width="150" height="160" as="geometry" />
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-15" target="69w5HiLNVomG7-tPnk7v-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-35" value="Observación directa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-15" target="69w5HiLNVomG7-tPnk7v-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-36" value="Son las actividades individualizadas más diferenciadas, ejecutadas por el ocupante del cargo, son llevadas a cabo con menor frecuencia y cumplen propósitos especiales" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="860" y="550" width="150" height="160" as="geometry" />
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-15" target="69w5HiLNVomG7-tPnk7v-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-37" value="Método de Entrevista Directa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="750" width="120" height="40" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-15" value="&lt;b&gt;Requisitos&lt;/b&gt;" style="verticalLabelPosition=center;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4.06;align=center;horizontal=1;textDirection=ltr;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1296.56" y="210" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-38" value="Son las actividades individualizadas más diferenciadas, ejecutadas por el ocupante del cargo, son llevadas a cabo con menor frecuencia y cumplen propósitos especiales" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="800" width="150" height="160" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-23" value="Mentales" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1143.75" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-39" value="Método Mixto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="750" width="120" height="40" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-24" value="Se refiere a las clasificaciones que el cargo exige el ocupante inherentes a las aptitudes.&lt;br&gt;&lt;br&gt;Por ejemplo puede ser la inteligencia, memoria, raciocinio, mental, numérico y verbal, habilidad para trabajar con personas, imaginación, liderazgo, iniciativa, adaptabilidad al cargo etc." style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="340" width="147.5" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="69w5HiLNVomG7-tPnk7v-40" value="Son las actividades individualizadas más diferenciadas, ejecutadas por el ocupante del cargo, son llevadas a cabo con menor frecuencia y cumplen propósitos especiales" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" vertex="1" parent="1">
-          <mxGeometry x="860" y="800" width="150" height="160" as="geometry" />
+        <mxCell id="69w5HiLNVomG7-tPnk7v-25" value="Físicos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1311.56" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-26" value="Es la posición jerárquica de un conjunto de tareas dentro de una organización formal" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="340" width="143.13" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-27" value="Académicos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1478.13" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-28" value="Se refiere a los requisitos adquiridos por el ocupante al cargo.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Preparación académica&lt;/li&gt;&lt;li&gt;Conocimientos generales.&lt;/li&gt;&lt;li&gt;Experiencia personal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="1465.01" y="340" width="146.25" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-31" target="69w5HiLNVomG7-tPnk7v-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-31" target="69w5HiLNVomG7-tPnk7v-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-31" target="69w5HiLNVomG7-tPnk7v-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-31" target="69w5HiLNVomG7-tPnk7v-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-31" value="&lt;b&gt;Métodos de descripción y análisis de puesto&lt;/b&gt;" style="verticalLabelPosition=center;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4.06;align=center;horizontal=1;textDirection=ltr;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="680" y="210" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-33" target="69w5HiLNVomG7-tPnk7v-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-33" value="Cuestionarios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="515" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-34" value="EL analista de puesto debe aplicar un cuestionario estructurado a los empleados, quienes identifican las tareas que realizan.&lt;br&gt;&lt;br&gt;En algunos casos, los empleados carecen de habilidades verbales, una situación que disminuye la utilidad de este método.&lt;br&gt;&lt;br&gt;Además que algunos empleados tienden a exagerar la importancia de sus tareas o sobre sus habilidades y capacidades.." style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="450" y="370" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-35" target="69w5HiLNVomG7-tPnk7v-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-35" value="Observación directa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="902" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-36" value="En el método de observación directa, el analista visualiza al trabajador desempeñar las tareas del puesto y registra sus observaciones al respecto. &lt;br&gt;&lt;br&gt;Este método es principalmente usado para reunir información sobre puestos que destacan las habilidades manuales. Permite identificar las interrelaciones entre las tareas físicas y mentales.&lt;br&gt;&lt;br&gt;Una debilidad de hacer uso de este método, es que puede resultar insuficiente para llevar un análisis de puesto eficiente cuando influyen en los procesos del cargo ciertas habilidades mentales." style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="837" y="410" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-37" target="69w5HiLNVomG7-tPnk7v-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-37" value="Método de Entrevista Directa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="515" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-38" value="Es posible entender el puesto entrevistando tanto al empleado como al supervisor.&lt;br&gt;&lt;br&gt;Puede obtener información sobre todos los aspectos del cargo, sobre la naturaleza y secuencia de las varias tareas componentes, y sobre los porqués y cuándos.&lt;br&gt;&lt;br&gt;Es posible hacerse con relación de las habilidades requeridas para el cargo, y es posible cruzar informaciones obtenidas con ocupantes de otros cargos similares, o con los supervisores, verificando las discrepancias en los informes" style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="450" y="741" width="250" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69w5HiLNVomG7-tPnk7v-39" target="69w5HiLNVomG7-tPnk7v-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-39" value="Método Mixto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="902" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69w5HiLNVomG7-tPnk7v-40" value="Por lo general, un analista no usa un método exclusivamente, con frecuenci es más apropiado hacer uso de varios de los métodos o aspectos específicos de estos para llevar a cabo el análisis de puesto.&lt;br&gt;&lt;br&gt;Esto, además de flexibilidad, permite la recepción de una mayor cantidad de información con respecto a un puesto que permite crear un mejor perfil en base a este." style="rounded=1;whiteSpace=wrap;html=1;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="837" y="800" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=-4.06;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdAo7GfiKsfdWgrMx4g5-14" target="69w5HiLNVomG7-tPnk7v-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdAo7GfiKsfdWgrMx4g5-14" target="69w5HiLNVomG7-tPnk7v-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=-4.06;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdAo7GfiKsfdWgrMx4g5-14" target="69w5HiLNVomG7-tPnk7v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=-4.06;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sdAo7GfiKsfdWgrMx4g5-14" target="69w5HiLNVomG7-tPnk7v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-14" value="&lt;b&gt;Conceptos básicos de la Descripción de Puestos&lt;/b&gt;" style="verticalLabelPosition=center;verticalAlign=middle;html=1;shape=mxgraph.basic.rounded_frame;dx=4.06;align=center;horizontal=1;textDirection=ltr;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="190" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="sdAo7GfiKsfdWgrMx4g5-33" value="&lt;b&gt;Iván Tonatiuh Martínez Ramírez. 19310272. 2-M&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
