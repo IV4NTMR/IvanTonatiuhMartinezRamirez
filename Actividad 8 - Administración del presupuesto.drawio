@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T14:48:46.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" version="14.5.3" etag="0prm5ykD7zYxNLcZi5im" type="github"><diagram id="g0ReUEUX3hf3ybrV8In7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-22T15:53:17.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" etag="KjXR2jyJTLH9EJ5PH_Fw" version="14.5.3" type="github">
+  <diagram id="g0ReUEUX3hf3ybrV8In7" name="Page-1">
+    <mxGraphModel dx="1414" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SJeArxi7SknIckv0_Zpr-1" value="Administración del Presupuesto." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="522" y="40" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SJeArxi7SknIckv0_Zpr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="230" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
